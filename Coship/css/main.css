@@ -31,13 +31,12 @@ html{
 body{
     box-sizing: border-box;
     height: 100%;
-    padding: 26px 0;
     background: #2f4158;
 }
 .log_con{
     height: 100%;
-    padding: 0 26px;
-    text-align: center;
+    position: relative;
+    min-height: 480px;
 }
 .log_hd{ 
     position: absolute;
