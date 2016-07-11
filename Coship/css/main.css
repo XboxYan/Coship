@@ -56,9 +56,8 @@ body{
 }
 .log_hd{
     text-align: center;
-}
-.log_hd img{
-    height: 90%;
+    background: url(../img/head.gif) center center no-repeat;
+    background-size: auto 80%;
 }
 .log_bd_con{
     position: absolute;
